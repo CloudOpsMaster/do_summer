@@ -42,3 +42,7 @@ fi
 # Everything is Ok we can apply the chown command
 res=$(chown -R $1:$1 $2)
 printf "[${LGREEN}SUCCESS${NC}] The owner in $2 has been changed to $1\n"
+# YA mogu redaktirovat' chuzhoy repozitoriy
+38 / 5000
+Результаты перевода
+# I can edit someone else's repository 
